@@ -10,7 +10,7 @@ const data = JSON.parse(fs.readFileSync(inputFilePath, 'utf8'));
 
 
 const filteredData = data.filter(user => {
-  return Number(user.uid) > 282847302;
+  return Number(user.uid) > 320827655;
 });
 
 const result = {

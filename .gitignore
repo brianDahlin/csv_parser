@@ -4,9 +4,13 @@ package-lock.json
 yarn.lock
 
 #kek
-csvs/*
 jsons/*
+csvs/*
 filteredjsons/*
+
+!jsons/.gitkeep
+!csvs/.gitkeep
+!filteredjsons/.gitkeep
 
 # Logs
 logs/
